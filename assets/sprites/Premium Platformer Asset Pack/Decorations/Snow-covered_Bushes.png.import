@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dfapqxqb2xh65"
+path="res://.godot/imported/Snow-covered_Bushes.png-21e2d00df4f2a0eaf1e6a01e1f63fecd.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/sprites/Premium Platformer Asset Pack/Decorations/Snow-covered_Bushes.png"
+dest_files=["res://.godot/imported/Snow-covered_Bushes.png-21e2d00df4f2a0eaf1e6a01e1f63fecd.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
